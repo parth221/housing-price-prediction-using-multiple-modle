@@ -1,0 +1,28 @@
+Model Outputs    
+
+
+    1)Descision Tree Model:
+        1)Mean squared error:
+        
+        2)Cross Validation:
+            Scores: [5.25671731 5.01267624 4.63066701 5.02577969 8.86097755 3.74658819 3.88437039 8.38326706 4.02450825 4.07287777]
+            Mean: 5.289842946898656
+            Standard Deviation: 1.741938592110814
+        
+    
+    2)Linear Regression Model:
+        1)Mean squared error:
+        
+        2)Cross Validation:
+            Scores: [3.3029894  5.02157944 4.90169523 5.1204613  7.95616653 2.18572829 3.08008427 6.05702703 2.25085541 4.63938111]
+            Mean: 4.451596801046413
+            Standard Deviation: 1.7043267012802386
+        
+        
+    3)Random Forest Regressor Modle:
+        1)Mean squared error:
+        
+        2)Cross Validation:
+            Scores: [2.85065458 4.26523653 3.605947   4.6327698  7.32455363 2.9579469 3.25070313 4.3599593  2.3472916  5.56208777]
+            Mean: 4.115715023188615
+            Standard Deviation: 1.4076303612088539
