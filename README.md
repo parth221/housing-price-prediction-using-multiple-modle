@@ -1,1 +1,1 @@
-# housing-price-prediction-using-multiple-modle
+# housing-price-prediction-using-multiple-model
